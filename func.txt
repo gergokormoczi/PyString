@@ -1,0 +1,5 @@
+var usern = input username? :
+var passw = input password? :
+func writ = write  ; write Your username: ; write var.usern ; write  ; write Your password: ; write var.passw ; write
+var should = input should i write  your password and username? :
+if yes in var.should than func.writ

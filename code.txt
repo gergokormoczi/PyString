@@ -1,0 +1,3 @@
+if 5 == 5 than fvar num = input how many times shoud i write hello word?
+write
+if 5 == 5 than for var.num - if 6 == 6 than write hello ; write world ; write or 10 - if 6 == 6 than write igaz ; write szia ; write vilag 

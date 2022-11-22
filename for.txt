@@ -1,0 +1,4 @@
+var h = hello world
+var i = int 0
+for var.h length - write var.h  ; var.i ++
+write var.i

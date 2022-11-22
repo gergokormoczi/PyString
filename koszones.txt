@@ -1,0 +1,4 @@
+var s = input koszonj
+var sz = szia
+var ten = input hanyszor koszonjek vissza?
+if szia == var.s than for var.ten - write var.sz else  if hello == var.s than for var.ten - write var.sz else   write nem jo koszones
